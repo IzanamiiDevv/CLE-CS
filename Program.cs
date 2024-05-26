@@ -7,7 +7,7 @@ namespace Main
     {
         public static void Main(string[] args)
         {
-            string command = "cd";
+            string command = "echo HEllo World";
             try
             {
                 string output = Exec(command);
